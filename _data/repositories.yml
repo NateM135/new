@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - natem135
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - NateM135/zeta
+  - NateM135/ctf-writeups
+  - NateM135/Hibana
+  - NateM135/c3
